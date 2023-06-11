@@ -1,0 +1,9 @@
+#pragma once
+void Setup();
+void DrawFrame();
+void DrawScore();
+void EraseFruit();
+void DrawFruit();
+void Input();
+int Logic();
+void GameCycle();
