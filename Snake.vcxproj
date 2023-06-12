@@ -19,21 +19,21 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="After.cpp" />
-    <ClCompile Include="Assurance.cpp" />
-    <ClCompile Include="Game.cpp" />
-    <ClCompile Include="Menu.cpp" />
-    <ClCompile Include="Pause.cpp" />
-    <ClCompile Include="PosControls.cpp" />
-    <ClCompile Include="Snake.cpp" />
+    <ClCompile Include="Source\After.cpp" />
+    <ClCompile Include="Source\Assurance.cpp" />
+    <ClCompile Include="Source\Game.cpp" />
+    <ClCompile Include="Source\Menu.cpp" />
+    <ClCompile Include="Source\Pause.cpp" />
+    <ClCompile Include="Source\PosControls.cpp" />
+    <ClCompile Include="Source\Snake.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="After.h" />
-    <ClInclude Include="Assurance.h" />
-    <ClInclude Include="Game.h" />
-    <ClInclude Include="Menu.h" />
-    <ClInclude Include="Pause.h" />
-    <ClInclude Include="PosControls.h" />
+    <ClInclude Include="Source\After.h" />
+    <ClInclude Include="Source\Assurance.h" />
+    <ClInclude Include="Source\Game.h" />
+    <ClInclude Include="Source\Menu.h" />
+    <ClInclude Include="Source\Pause.h" />
+    <ClInclude Include="Source\PosControls.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
