@@ -16,6 +16,7 @@ And there're also additional helpful menus like this one, pause menu or exit con
 
 Notes:
 Your console should work with escape sequences, otherwise you need to rewrite code to output in black and white.
+Your Visual Studio should be of 2022 version, otherwise just use Snake.exe in x64/Release folder, or rebuild the project in your IDE, using source files in Source folder.
 
 TODO list:
 * prevent console window from minimizing after some degree;
