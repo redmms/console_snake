@@ -1,4 +1,4 @@
-This game is a stylized classical Snake, download it to make some fun, or to get useful code snippets such as various menus, color/font/code_page/cursor changing in console, special input, that restricts you to input anything except digits, examples of Windows.h input methods etc. 
+This game is a stylized classical Snake, download it to make some fun, or to get useful code snippets such as various menus, color/font/code_page/cursor changing in console, special input, that restricts you from inputting anything except digits, examples of Windows.h input methods etc. 
 
 The main logic is in Snake.cpp. Lots of useful functions are in PosControls.cpp, other files are different pages with menus and the game.
 
