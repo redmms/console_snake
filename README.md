@@ -14,4 +14,11 @@ And there're also additional helpful menus like this one, pause menu or exit con
 
 ![gameovermenu](/Over.jpg)
 
+Notes:
+Your console should work with escape sequences, otherwise you need to rewrite code to output in black and white.
+TODO list:
+* prevent console window from minimizing after some degree;
+* add English comments to the code;
+* add console independent color without escape sequences;
+
 
